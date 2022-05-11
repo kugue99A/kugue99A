@@ -25,13 +25,13 @@ Here are some ideas to get you started:
     <tbody>
         <tr>
             <td><a href="https://medium.com/@zluvsand">
-            <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" />
+            <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
             </a></td>
             <td><a href="https://www.linkedin.com/in/zluvsand/">
-            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
             </a></td>
             <td><a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
-            <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
+            <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
             </a></td>
         </tr>
     </tbody>
