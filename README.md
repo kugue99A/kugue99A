@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# I'm beginner at Vim.
+
 ![](https://github-readme-stats.vercel.app/api?username=kugue99A&show_icons=true&bg_color=30,3485ff,e38ad5&title_color=fff&text_color=fff)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kugue99A&bg_color=30,3485ff,e38ad5&title_color=fff&text_color=fff)
