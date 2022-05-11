@@ -25,13 +25,16 @@ Here are some ideas to get you started:
     <tbody>
         <tr>
             <td><a href="https://medium.com/@zluvsand">
-            <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+            <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+            </a></td>
+            <td><a href="https://medium.com/@zluvsand">
+            <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
             </a></td>
             <td><a href="https://www.linkedin.com/in/zluvsand/">
-            <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+            <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
             </a></td>
             <td><a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
-            <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+            <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
             </a></td>
         </tr>
     </tbody>
